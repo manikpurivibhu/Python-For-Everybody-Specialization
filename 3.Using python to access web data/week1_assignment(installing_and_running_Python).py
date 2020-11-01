@@ -1,0 +1,1 @@
+print('Kame-hame-HAAAA')
