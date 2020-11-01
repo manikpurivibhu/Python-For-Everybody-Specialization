@@ -548,7 +548,7 @@ Then you say did you turn left or right at the gas station? and
 they say, I followed your directions perfectly, I have 
 them written down, it says turn left and go one mile at the gas station.  Then you say,
 I am very sorry, because while my instructions were syntactically correct, they 
-sadly contained a small but undetected semantic error.. 
+sadly contained a small but undetected semantic error... 
 
 description
 
